@@ -27,6 +27,7 @@ lib/Perl/Metrics/Lite/Analysis/Sub/Plugin/LineNumber.pm
 lib/Perl/Metrics/Lite/Analysis/Sub/Plugin/Lines.pm
 lib/Perl/Metrics/Lite/Analysis/Sub/Plugin/MccabeComplexity.pm
 lib/Perl/Metrics/Lite/Analysis/Util.pm
+lib/Perl/Metrics/Lite/FileFinder.pm
 lib/Perl/Metrics/Lite/Report/CheckStyle.pm
 lib/Perl/Metrics/Lite/Report/Text.pm
 Makefile.PL
