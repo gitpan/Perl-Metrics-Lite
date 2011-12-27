@@ -2,6 +2,9 @@
 bin/measureperl
 bin/measureperl-checkstyle
 Changes
+inc/attributes.pm
+inc/Devel/InnerPackage.pm
+inc/File/Spec/Functions.pm
 inc/Module/Install.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Can.pm
@@ -13,7 +16,13 @@ inc/Module/Install/ReadmeMarkdownFromPod.pm
 inc/Module/Install/Scripts.pm
 inc/Module/Install/Win32.pm
 inc/Module/Install/WriteAll.pm
+inc/Module/Pluggable/Object.pm
+inc/parent.pm
+inc/PerlIO.pm
 inc/Pod/Markdown.pm
+inc/Test/Builder.pm
+inc/Test/Builder/IO/Scalar.pm
+inc/Test/Builder/Module.pm
 inc/Test/LoadAllModules.pm
 inc/Test/More.pm
 lib/Perl/Metrics/Lite.pm
