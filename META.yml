@@ -27,11 +27,11 @@ requires:
   Getopt::Long: 0
   IO::File: 1.14
   Module::Pluggable: 0
-  PPI: 1.113
+  PPI: 1.205
   Pod::Usage: 0
   Readonly: 1.03
   Text::ASCIITable: 0
   perl: 5.005
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.061
+version: 0.07
